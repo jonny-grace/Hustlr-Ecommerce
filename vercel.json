@@ -1,9 +1,0 @@
-{
-  "ignoreCommand": "echo 'Ignore API folder for Vercel'",
-  "builds": [
-    {
-      "src": "src/**/*",
-      "use": "@vercel/static-build"
-    }
-  ]
-}
